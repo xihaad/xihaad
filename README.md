@@ -11,7 +11,7 @@ LLM, Agentic Document Extraction · Retrieval-Augmented Generation (RAG) · Mult
 Multimodal Machine Learning · Deep Reinforcement Learning · Embodied AI and Robotics (Multi-agent Control Theory and Systems, Unmanned Aerial Vehicles) · Physics Guided/Informed/Encoded Neural Networks · 3D Scene Graph Generation · Multi-view Synthesis and Reconstruction · Medical Image Processing · LLMs/VLLMs
 
 
-- 🔭 Currently working on **world models for edge devices**, **control theory**, and **reinforcement learning**
+🔭 Currently working on **world models for edge devices**, **control theory**, and **reinforcement learning**
 
 - 📄 Portfolio & CV: [xihaad.github.io/ahmed_rafi_hasan](https://xihaad.github.io/ahmed_rafi_hasan/)
 - 📫 Reach me: [zihad.rafi16@gmail.com](mailto:zihad.rafi16@gmail.com)
