@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmed Rafi Hasan 👋
 
-Machine Learning Engineer building agentic LLM systems, physics-guided neural networks, and multimodal ML pipelines. I've worked on document intelligence (agentic extraction from architectural drawings), multi-agent conversational recommendation systems, physics-informed models for aircraft clustering, and attention-based computer vision for real-time water monitoring in precision agriculture.
+AI Engineer building agentic LLM systems, physics-guided neural networks, and multimodal ML pipelines. I've worked on document intelligence (agentic extraction from architectural drawings), multi-agent conversational recommendation systems, physics-informed models for aircraft clustering, and attention-based computer vision for real-time water monitoring in precision agriculture.
 
 
 **Industry Experience**: 
